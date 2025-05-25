@@ -7,9 +7,7 @@ A full-stack web application that allows users to browse restaurant menus, place
 This project demonstrates the implementation of a complete online food ordering platform using:
 
 - **Frontend**: HTML, CSS, Bootstrap
-- **Backend**: Java (Servlets/JSP), JDBC / Hibernate (ORM)
-- **Database**: MySQL or any RDBMS
-- **Architecture**: MVC (Model-View-Controller)
+- **Midware**: Javascript
 
 This system provides two types of users:
 - **Customers**: Browse menus, place orders, and track delivery.
@@ -36,10 +34,8 @@ This system provides two types of users:
 | Layer         | Technology                      |
 |---------------|----------------------------------|
 | Frontend      | HTML, CSS, Bootstrap             |
-| Backend       | Java (Servlets/JSP), Hibernate   |
-| Database      | MySQL                            |
-| Web Server    | Apache Tomcat                    |
-| Tools/IDE     | Eclipse / IntelliJ IDEA          |
+| midware     | Javascript                         |
+| Tools/IDE     | Eclipse / vs code                |
 
 ---
 
@@ -48,14 +44,6 @@ This system provides two types of users:
 ### Prerequisites
 
 - Java JDK 8+
-- Apache Tomcat 9+
-- MySQL Server
+- VS code
 - Eclipse IDE or IntelliJ
-- MySQL Workbench (optional)
 
-### Steps
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/your-username/online-food-ordering-system.git
