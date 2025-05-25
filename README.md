@@ -2,7 +2,7 @@
 ### 👩‍💻 Project Members:
 
 1. **Archita Panigrahy** – Reg No: 2341016162
-2. **Jaya**
+2. **Jaya**– Reg No: 2341010017
 3. **Sanka Yasaswini** – Reg No: 2341025007
 4. **Itishree Tripathy** – Reg No: 2341020037
 5. **Avali Deepti Senapati** – Reg No: 2341019372
